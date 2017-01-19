@@ -18,12 +18,7 @@
 		<link>
 			<name>resources/Consumer_Complaints.csv</name>
 			<type>1</type>
-			<location>C:/Users/PYTHON/Downloads/Consumer_Complaints.csv</location>
-		</link>
-		<link>
-			<name>resources/consume table schema.txt</name>
-			<type>1</type>
-			<location>C:/Users/PYTHON/Desktop/Git_practice/Python_data_migrate/resources/consumer table schema.txt</location>
+			<location>C:/Users/PYTHON/Desktop/Git_practice/Python_data_migrate/resources/Consumer_Complaints.csv</location>
 		</link>
 	</linkedResources>
 </projectDescription>
