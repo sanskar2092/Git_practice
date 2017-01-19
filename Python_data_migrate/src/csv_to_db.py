@@ -46,8 +46,6 @@ def read_csv(file, cur):
                 c += 1
             except Exception as e:
                 print("Error - ", e)
-            if c == 5:
-                break
         print(c, "records inserted")
 
 
