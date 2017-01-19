@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Python_data_migrate</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>resources/Consumer_Complaints.csv</name>
+			<type>1</type>
+			<location>C:/Users/PYTHON/Downloads/Consumer_Complaints.csv</location>
+		</link>
+		<link>
+			<name>resources/consume table schema.txt</name>
+			<type>1</type>
+			<location>C:/Users/PYTHON/Desktop/consume table schema.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
